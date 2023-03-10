@@ -1,1 +1,2 @@
 # Unit2-02-PHP-AreaPerRectangle
+[![GitHub's Super Linter](https://github.com/ICS20-Programming-NoahS/Unit2-02-PHP-AreaPerRectangle/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS20-Programming-NoahS/Unit2-02-PHP-AreaPerRectangle/actions)
